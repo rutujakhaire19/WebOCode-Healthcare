@@ -29,13 +29,13 @@ YEAR-Second Year
 CONTACT- 9307918522
 
 # How to run this project -
-System Requirements -
+System Requirements - Sublime Text Editor or VS code as Tool(for writing the code) 
 
-1)You can use Sublime Text Editor or VS code as Tool(for writing the code)
+1)Download the zip file of project WebOCode-Healthcare.github.io
 
-2)Run the program in the default browser(Chrome or Microsoft Edge)
+2)Extract the file to a folder and run the project using VS Code or Sublime Text Editor or you can open directly the index.html file.
 
-3)The main homepage of the "Healthify" is index.html
+3)The main homepage of the website "Healthify" is index.html  will get open in Default Browser.
 
 # Description of Project (How our website describes the theme-Healthcare which we have selected) 
 
@@ -97,6 +97,22 @@ Framework - Bootstrap
 
 # Book Appointment
 ![image](https://user-images.githubusercontent.com/75447890/123547830-f4a1e080-d77f-11eb-9fc3-132dbb487a46.png)
+
+# References
+1)https://i.guim.co.uk/img/media/dd120eb4c9b9771c17f3ecbeeca3048bccbc57d5/0_36
+
+2)https://i.guim.co.uk/img/media/1b0058b296e4a9f90f853ad04297d144b782201c/0_32
+
+3)https://i.guim.co.uk/img/media/ff6b1bb2e778ffc2d888005d7e132f5f58eafd3c/0_197_4
+
+4)https://ichef.bbci.co.uk/news/976/cpsprodpb/140F7/production/_116876128_hosp2.jpg
+
+5)https://i.guim.co.uk/img/media/94e22868d4e9bd7d348ebaa0279ff6e42e4b1a90/0_0
+
+6)https://media.istockphoto.com/photos/portrait-of-serious-handsome-male-doctor-wit
+
+7)https://www.parkwayshenton.com/images/default-source/default-album/family-phy
+
 
 
 
