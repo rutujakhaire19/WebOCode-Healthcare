@@ -27,6 +27,22 @@ YEAR-Second Year
 
 CONTACT- 9307918522
 
+# Description of Project 
+
+Our website "Healthify" is user-friendly and responsive website which is having Attractive frontend with colorful images. Healthify is under the theme of Healthcare. The main webpage of our website contains different menus in navigation bar 
+
+# Tech Stack
+
+Domain - Frontend Development
+
+Platform -  VS Code
+
+Languages Used- HTML, CSS, JavaScript
+
+Framework - Bootstrap
+
+
+
 
 
 
